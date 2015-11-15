@@ -7,3 +7,5 @@
 > _Thomas Roch_, [Understanding the functional revolution in front-end applications][fn-revolution]
 
 [fn-revolution]: http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/
+
+- [_Functional Programming in JavaScript_ by Mattias P Johansson](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
