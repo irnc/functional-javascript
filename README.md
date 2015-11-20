@@ -11,3 +11,7 @@
 - [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) by Mattias P Johansson
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) by Andre Staltz.
 - [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz at JSConf Budapest 2015
+
+## Resources
+
+- https://github.com/lucasviola/awesome-functional-programming
